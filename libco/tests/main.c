@@ -35,7 +35,7 @@ static void test_1() {
     co_wait(thd1);
     co_wait(thd2);
 
-//    printf("\n");
+    printf("\n");
 }
 
 // -----------------------------------------------
